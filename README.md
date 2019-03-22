@@ -8,7 +8,7 @@ try to understand dynamic-programming
 
 ## 目录
 
-- [什么是DynamicProgramming](/dynamic-programming/posts/1.什么是DP.md)
+- [什么是DynamicProgramming](/posts/1.什么是DP.md)
 - [Longest Common Subsequence | Introduction & LCS Length]()
 - [Longest Common Subsequence | Finding all LCS — Techie Delight]()
 - [Longest Common Substring problem — Techie Delight]()
