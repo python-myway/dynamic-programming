@@ -9,9 +9,8 @@ try to understand dynamic-programming
 ## 目录
 
 - [什么是DynamicProgramming](/posts/1.什么是DP.md)
-- [Longest Common Subsequence | Introduction & LCS Length]()
-- [Longest Common Subsequence | Finding all LCS — Techie Delight]()
-- [Longest Common Substring problem — Techie Delight]()
+- [Longest Common Subsequence](/posts/2.Longest-Common-Subsequence.md)
+- [Longest Common Substring]()
 - [Longest Palindromic Subsequence using Dynamic Programming]()
 - [Longest Repeated Subsequence Problem — Techie Delight]()
 - [Implement Diff Utility — Techie Delight]()
